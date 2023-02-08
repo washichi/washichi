@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm an electrical/embedded engineer with a passion to create and automate. 
 
 <!--
 **washichi/washichi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+I'm experienced with:
+[![My Skills](https://skillicons.dev/icons?i=c,c++,python,ros,opencv,docker,linux)](https://skillicons.dev)
+
+
