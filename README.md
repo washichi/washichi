@@ -17,6 +17,10 @@ Here are some ideas to get you started:
 -->
 
 I'm experienced with:
-[![My Skills](https://skillicons.dev/icons?i=c,c++,python,ros,opencv,docker,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,ros,opencv,docker,linux)](https://skillicons.dev)
 
+I'm comfortable with:
+[![My Skills](https://skillicons.dev/icons?i=azure,git,cs,androidstudio,html,css,mysql,cmake,django)](https://skillicons.dev)
 
+Others:
+[![My Skills](https://skillicons.dev/icons?i=arduino,cloudflare,ps,qt,raspberrypi)](https://skillicons.dev)
